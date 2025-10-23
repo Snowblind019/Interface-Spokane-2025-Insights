@@ -1,4 +1,4 @@
-# Interface Tech Conference 2024 - Session Notes
+# Interface Tech Conference 2025 - Session Notes
 
 ***A collection of insights, technical deep-dives, and practical takeaways from the Interface Tech Conference held in Spokane, WA on October 16th 2025.***
 
